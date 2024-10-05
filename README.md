@@ -1,2 +1,1 @@
-﻿# Ejercicios-de-JS
-HOLA; HOLA; HOLAAAAAAAAAAAAAAAAAAAAAAAAA
+Ejercicio N1
